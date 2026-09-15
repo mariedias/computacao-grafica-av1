@@ -1,4 +1,4 @@
-# Vivencial 2 - Seleção e transformações em objetos 3D
+# Atividade Vivencial M2 - Seleção e transformações em objetos 3D
 
 Trabalho da disciplina de Computação Gráfica (Unisinos).
 
